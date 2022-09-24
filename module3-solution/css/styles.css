@@ -1,0 +1,35 @@
+.navbar-toggler:visited, .navbar-toggler:focus{
+    border-width: inherit;
+}
+
+.card{
+    border-radius: 0px;
+}
+
+.row{
+    margin: 0;
+    width: 100%;
+}
+
+.menu-item{
+    margin-bottom: 15px;
+    justify-items: center;
+}
+
+.info{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: grey;
+    margin: 0;
+}
+
+.linktoTop, .linktoTop:focus, .linktoTop:active{
+    text-decoration: none;
+    color: black;
+}
+
+.linktoTop:hover{
+    color: black;
+    text-decoration: underline;
+}
